@@ -22,4 +22,4 @@ Natural Join – join two or more tables using implicit join condition based on 
 * Which join was used to create the final view below?
 
   ![table_join.png](Images/table_join.png)
-  Vendor Name
+  Vendor Name/Left Join
